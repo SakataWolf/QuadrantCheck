@@ -1,0 +1,16 @@
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\VerificaQuadrante.exe
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\VerificaQuadrante.deps.json
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\VerificaQuadrante.runtimeconfig.json
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\VerificaQuadrante.runtimeconfig.dev.json
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\VerificaQuadrante.dll
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\ref\VerificaQuadrante.dll
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\bin\Debug\net5.0\VerificaQuadrante.pdb
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.csproj.AssemblyReference.cache
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.AssemblyInfoInputs.cache
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.AssemblyInfo.cs
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.dll
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\ref\VerificaQuadrante.dll
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.pdb
+D:\Etec\PA\Métodos\VerificaQuadrante\VerificaQuadrante\obj\Debug\net5.0\VerificaQuadrante.genruntimeconfig.cache
